@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @subramani1505
+- 👋 Hi, I’m SUBRAMANI V
 - 👀 I’m interested in Data Analytics and Data Science
 - 🌱 I’m currently learning Data Analysis and Dashboards 
 - 💞️ I’m looking to collaborate on Data Analyst Projects
